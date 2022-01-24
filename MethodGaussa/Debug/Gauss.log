@@ -1,0 +1,4 @@
+﻿  Gauss.cpp
+C:\Users\lizam\OneDrive\Рабочий стол\Gauss\Gauss.cpp(13,9): warning C4101: 'm': unreferenced local variable
+C:\Users\lizam\OneDrive\Рабочий стол\Gauss\Gauss.cpp(273,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Gauss.vcxproj -> C:\Users\lizam\OneDrive\Рабочий стол\Gauss\Debug\Gauss.exe
