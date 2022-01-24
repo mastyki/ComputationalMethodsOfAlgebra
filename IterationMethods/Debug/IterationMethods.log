@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\lizam\source\repos\IterationMethods\Source.cpp(43,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lizam\source\repos\IterationMethods\Source.cpp(72,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lizam\source\repos\IterationMethods\Source.cpp(73,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lizam\source\repos\IterationMethods\Source.cpp(234,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  IterationMethods.vcxproj -> C:\Users\lizam\source\repos\IterationMethods\Debug\IterationMethods.exe
