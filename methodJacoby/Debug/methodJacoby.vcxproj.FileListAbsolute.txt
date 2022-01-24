@@ -1,0 +1,2 @@
+C:\Users\lizam\source\repos\methodJacoby\Debug\IterationMethodsForEigenvaluesProblem.exe
+C:\Users\lizam\source\repos\methodJacoby\Debug\IterationMethodsForEigenvaluesProblem.pdb
